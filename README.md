@@ -10,9 +10,11 @@ simple shell using fork() , exec()
   >>rakam 5 (write five (in turkish))</br>
   >>cat blabla (write cat: blabla) </br>
   >>command1 && command2 && ets..</br>
-  >>clear
+  >>clear</br>
+  +screenshots in the report.
 </i>
-<i> empty command or wrong parameters are detected.</i>
+</br>
+<i>*empty command or wrong parameters are detected.</i>
 
 
 
