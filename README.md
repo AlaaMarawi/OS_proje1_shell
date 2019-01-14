@@ -11,7 +11,7 @@ simple shell using fork() , exec()
   >>cat blabla (write cat: blabla) </br>
   >>command1 && command2 && ets..</br>
   >>clear</br>
-  +screenshots in the<a href= "https://github.com/AlaaMarawi/isletim_sistemleri_proje1_shell/blob/master/Rapor.pdf">report</a>.
+  +screenshots in the<a href= "https://github.com/AlaaMarawi/isletim_sistemleri_proje1_shell/blob/master/Rapor.pdf"> report</a>.
 </i>
 </br>
 <i>*empty command or wrong parameters are detected.</i>
